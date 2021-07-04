@@ -1,0 +1,13 @@
+binding: user.agent=safari
+Compiling module com.google.gwt.sample.stockwatcher.StockWatcher
+   Unification traversed 607 fields and methods and 180 types. 0 are considered part of the current module and 9 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 0 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 3.674s
+Linking into /home/vadimsk/coding/StockWatcherMaven/target/gwt/devmode/work/com.google.gwt.sample.stockwatcher.StockWatcher/compile-2/war/stockwatcher; Writing extras to /home/vadimsk/coding/StockWatcherMaven/target/gwt/devmode/work/com.google.gwt.sample.stockwatcher.StockWatcher/compile-2/extras/stockwatcher
+   Link succeeded
+   Linking succeeded -- 0.683s
+4.873s total -- Compile completed
